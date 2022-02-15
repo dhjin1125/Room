@@ -1,6 +1,7 @@
 # Room(Kotlin) - Room 예제
 
-Kotlin으로 제작한 Room 예제입니다.
+Room에 대한 개념을 이해하고
+예제를 통해 실습하는 Room 예제 입니다.
 
 예제 기능은
 
@@ -13,7 +14,7 @@ Kotlin으로 제작한 Room 예제입니다.
 
 ### https://blog.naver.com/dh971125?Redirect=Update&logNo=222645104648
 
-세부 설명은 위 블로그를 방문해주세요.
+Room에 대한 세부 설명은 위 블로그를 방문해주세요.
 
 
 # <결과화면>
